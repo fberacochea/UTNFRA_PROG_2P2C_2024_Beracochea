@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Franco",
+        "puntuacion": 640
+    },
+    {
+        "nombre": "Pedro",
+        "puntuacion": 890
+    }
+]
